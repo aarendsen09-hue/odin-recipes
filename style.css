@@ -1,0 +1,15 @@
+p {
+    font-family: "Times New Roman", sans-serif;
+    background-color: purple;
+}
+
+li {
+    color: black;
+    background-color: lightpink;
+    border: 2px solid antiquewhite;
+    padding: 5px;
+}
+
+body {
+    background-color: antiquewhite;
+}
